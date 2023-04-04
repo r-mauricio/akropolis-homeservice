@@ -69,14 +69,14 @@ const SobreSection = () => {
 						</p>
 						<ul className=" flex  flex-col items-start ml-8  md:flex-row font-light md:gap-8 list-[square] tracking-widest md:pb-0 md:mx-4 lg:gap-12 dark:text-darkIce/50">
 							<div className="flex flex-col flex-wrap">
-								<li>AC</li>
-								<li>Sofá</li>
-								<li>Cama</li>
+								<li>Sofá-Cama</li>
+
 								<li>Frigobar</li>
+								<li>Camas Box</li>
 							</div>
 							<div className="flex flex-col flex-wrap">
-								<li>Camas Box</li>
-								<li>TV a cabo</li>
+								<li>TV local</li>
+								<li>Ar Condicionado</li>
 								<li>Ramal telefônico</li>
 								<li>Chuveiro elétrico</li>
 							</div>

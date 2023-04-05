@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import cb from "/images/orlacb.jpg";
+import cb from "/images/orlacb-min.jpg";
 
 const Hero = () => {
 	const [address, setAddress] = useState(false);

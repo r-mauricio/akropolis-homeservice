@@ -13,7 +13,7 @@ const Hero = () => {
 	window.addEventListener("scroll", changeAddress);
 	return (
 		<div className="w-full h-full flex flex-row overflow-hidden">
-			<div className="bg-gradient-to-b from-darkBlue/30 to-black/20  h-screen w-screen relative group dark:bg-gradient-t0-b dark:from-darkBlue/3- dark:to-black/20 webkit-appearance:none">
+			<div className="bg-gradient-to-b from-darkBlue/30 to-black/20  h-screen w-screen relative group dark:bg-gradient-to-b dark:from-darkBlue/3- dark:to-black/20    ">
 				<h1 className="absolute font-noto font-semibold text-3xl md:text-4xl text-darkIce/80  w-1/2 md:w-[40%]  h-full mx-12 mt-36 md:mt-44  lg:text-5xl z-10 dark:text-darkIce">
 					Conforto e bem estar na sua jornada
 				</h1>

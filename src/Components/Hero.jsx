@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import cb from "/images/cb-aereo.jpg";
+import cb from "/images/orlacb.jpg";
 
 const Hero = () => {
 	const [address, setAddress] = useState(false);
@@ -13,8 +13,8 @@ const Hero = () => {
 	window.addEventListener("scroll", changeAddress);
 	return (
 		<div className="w-full h-full flex flex-row overflow-hidden">
-			<div className=" bg-black/10 h-screen w-screen relative group  ">
-				<h1 className="absolute font-noto font-semibold text-3xl md:text-4xl text-gray-500/90 bg-ice/10 w-1/2 md:w-[40%]  h-auto mx-12 mt-36 md:mt-44  lg:text-5xl z-10 ">
+			<div className="  h-screen w-screen relative group  ">
+				<h1 className="absolute font-noto font-semibold text-3xl md:text-4xl text-gray-200  w-1/2 md:w-[40%]  h-auto mx-12 mt-36 md:mt-44  lg:text-5xl z-10 ">
 					Conforto e bem estar na sua jornada
 				</h1>
 				<img

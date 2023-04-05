@@ -1,5 +1,5 @@
 const slides = [
-	{ img: "images/orla.jpg" },
+	// { img: "images/ponta.jpg" },
 	{ img: "images/vista.jpg" },
 	{ img: "images/terraco.jpg" },
 	{ img: "images/arte.jpg" },

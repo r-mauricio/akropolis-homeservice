@@ -1,5 +1,5 @@
 import React from "react";
-import bg from "/images/cabo-branco-aerea.jpg";
+import bg from "/images/ponta.jpg";
 import { MdOutlineMailOutline, MdOutlineWhatsapp } from "react-icons/md";
 import ContactForm from "../Components/ContactForm";
 

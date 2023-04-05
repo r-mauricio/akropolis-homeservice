@@ -43,7 +43,7 @@ const Navbar = () => {
 			className={
 				color || showLinks
 					? "container mx-auto  max-w-full fixed bg-ice z-20 dark:bg-black  ease-in-out duration-500"
-					: "container mx-auto max-w-full fixed z-20  "
+					: "container mx-auto max-w-full fixed bg-ice/60 z-20 dark:bg-black/50 "
 			}>
 			<div className="flex items-center justify-between">
 				<NavLink to="/" onClick={ScrollToTop}>
@@ -54,15 +54,15 @@ const Navbar = () => {
 					/>
 				</NavLink>
 				<div className="hidden lg:flex space-x-16 pr-[30px] text-sm font-semibold tracking-widest dark:font-bold">
-					<NavLink to="/" className="link dark:dark-link">
+					<NavLink to="/" className="link dark:text-darkIce/40">
 						HOME
 					</NavLink>
 
-					<NavLink to="/faleconosco" className="link ">
+					<NavLink to="/faleconosco" className="link dark:text-darkIce/40">
 						FALE CONOSCO
 					</NavLink>
 					<a
-						className="link"
+						className="link dark:text-darkIce/40"
 						href="https://wa.me/558330311058"
 						target="_blank"
 						rel="noopener noreferrer">

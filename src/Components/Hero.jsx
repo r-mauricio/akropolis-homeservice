@@ -20,7 +20,7 @@ const Hero = () => {
 				<img
 					src={cb}
 					alt=""
-					className="mix-blend-overlay w-full h-full object-cover object-center  "
+					className="w-full h-full object-cover object-center  "
 				/>
 				{address ? (
 					<h2 className="  bg-darkBlue/50 w-full  absolute uppercase -mt-6 text-xl text-white dark:bg-black/50 dark:text-darkIce/60">

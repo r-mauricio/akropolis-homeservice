@@ -57,7 +57,7 @@ const SobreSection = () => {
 						<h1 className="font-semibold uppercase tracking-wider text-center text-2xl py-4 dark:text-darkIce/70 ">
 							conforto e praticidade
 						</h1>
-						<p className="font-light pb-6  mx-4 tracking-widest md:pb-4 dark:text-darkIce/50">
+						<p className="font-light pb-6  mx-6 tracking-widest md:pb-4 dark:text-darkIce/50">
 							Contamos com 21 apartamentos estilo Flat, com 2 ambientes, os
 							quartos tem vista para o mar e com capacidade para acomodar até
 							três pessoas; todos equipados para oferecer o máximo conforto. A

@@ -20,7 +20,7 @@ const Slide = () => {
 					instalações apresentam decoração elegante e contemporânea.
 				</p>
 			</div>
-			<div className="md:w-1/3">
+			<div className="w-3/4 md:w-1/3">
 				<img
 					src={home}
 					alt="akropolis home"

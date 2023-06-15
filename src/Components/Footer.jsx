@@ -16,7 +16,7 @@ const Footer = () => {
 	return (
 		<div>
 			{/* <!-- Footer --> */}
-			<footer className="bg-ice dark:bg-black h-full">
+			<footer className="bg-ice dark:bg-black h-full select-none">
 				{/* <!-- Flex Container --> */}
 				<div className=" flex flex-col-reverse justify-between px-6 py-6 mx-auto space-y-8 lg:flex-row lg:px-32 lg:space-y-0 tracking-wider font-semibold lg:py-0">
 					{/* <!-- Logo and social links container --> */}

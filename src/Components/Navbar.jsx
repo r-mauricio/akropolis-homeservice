@@ -45,7 +45,7 @@ const Navbar = () => {
 					? "container mx-auto  max-w-full fixed bg-ice z-20 dark:bg-black  ease-in-out duration-500"
 					: "container mx-auto max-w-full fixed bg-ice/60 z-20 dark:bg-black/50 "
 			}>
-			<div className="flex items-center justify-between">
+			<div className="flex items-center justify-between select-none">
 				<NavLink to="/" onClick={ScrollToTop}>
 					<img
 						src={logo}

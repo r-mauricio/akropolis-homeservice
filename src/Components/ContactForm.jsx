@@ -19,11 +19,11 @@ const ContactForm = () => {
 		};
 		emailjs
 			.send(
-				"service_5eqpo8f",
-				"template_z2ssdpb",
+				"service_x2elezy",
+				"template_ytg8n96",
 
 				templateParams,
-				"-2o2bIsGMfvCG7yR5"
+				"y8-NrZ2VQ8hbrDgui"
 			)
 
 			.then((response) => {

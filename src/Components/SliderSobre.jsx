@@ -6,6 +6,7 @@ const SliderSobre = ({ openLightboxOnSlide }) => {
 		<div className="md:w-full lg:w-5/6">
 			<swiper-container
 				keyboard="true"
+				navigation="true"
 				space-between="5"
 				pagination="true"
 				pagination-clickable="true"
